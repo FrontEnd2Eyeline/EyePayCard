@@ -264,6 +264,70 @@ CLASE DANIEL PALACIO
 .nav-link {
     font-weight: 700;
 }
+
+.nav-link-h2 {
+    padding: 0 !important;
+    margin: 0 !important;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.text-header-h3 {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #86929f;
+    font-weight: 200;
+}
+
+.text-section-uno-h3 {
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.text-section-two-h3 {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #173d7a;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    line-height: 1.4;
+}
+
+.font-last-descriptions {
+    font-family: sans-serif;
+    color: white;
+    font-size: 21px;
+    font-weight: 300;
+}
+
+.title-cards-text-four {
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.text-cards-text-four {
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 1.4;
+}
+
+.title-faq {
+    margin-top: 30px;
+    color: dodgerblue;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.text-faq {
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 100;
+}
+
 .button-app-nav{
     border-radius: 50px;
     border-color: #00b4f8;
@@ -415,7 +479,7 @@ CLASE DANIEL PALACIO
 
 
 .backDivColor {
-    height: 190%;
+    height: auto;
     background-repeat: no-repeat;
     background-attachment: inherit;
     background-position: inherit;
